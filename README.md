@@ -22,7 +22,7 @@
 18) function definition
 19) Arguments vs Parameters
 20) Default Params and Keyword Args
-21) *args, **kargs
+21) *args and **kargs
 22) Walrus
 23) Scopes
 24) global and nonlocal keyword
